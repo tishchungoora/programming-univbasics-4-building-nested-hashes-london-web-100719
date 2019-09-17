@@ -1,5 +1,7 @@
 def base_hash
-	my_hash = {:my_key_1 => "Value 1"}
+	monopoly = {
+	  :railroads => {}
+	}
 end
 
 def monopoly_with_second_tier
